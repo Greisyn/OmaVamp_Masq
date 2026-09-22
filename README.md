@@ -9,7 +9,7 @@ Corner-anchored VTM20 neonate character sheet editor, in the style of
 omarchy plugin add https://github.com/Greisyn/OmaVamp_Masq.git --enable
 ```
 
-- **Edit like the PDF**: identity header (Name/Player/Chronicle/Nature/Demeanor/Concept/Clan/Generation/Sire), Attributes, Talents/Skills/Knowledges, Virtues/pools, Disciplines/Backgrounds/notes.
+- **identity header**:  (Name/Player/Chronicle/Nature/Demeanor/Concept/Clan/Generation/Sire), Attributes, Talents/Skills/Knowledges, Virtues/pools, Disciplines/Backgrounds/notes.
 - **Export plain text for LLM roleplay**: VTM20 format (`VAMPIRE: THE MASQUERADE 20th - CHARACTER SHEET`).
 - **Floating + corner-anchored**: dwell the corner handle to reveal,
   leave to collapse, pin open, Esc closes. Corner (TL/TR/BL/BR) + size in settings.
